@@ -2,7 +2,7 @@
 
 ## Headers To Change
 
-See the photos inside this repository.
+Get the PDF in this repository: 
 
 As well inform Yourself here: https://owasp.org/www-project-secure-headers/
 
