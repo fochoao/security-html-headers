@@ -1,2 +1,8 @@
-# security-html-headers
-I put the security headers that do work. And how to avoid certain things from happen.
+# Security Headers to Send with Your Programming Language
+
+## Headers To Change
+
+See the photos inside this repository.
+
+Thanks,
+Fernando Ochoa Olivares.
